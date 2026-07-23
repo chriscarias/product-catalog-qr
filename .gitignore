@@ -1,2 +1,3 @@
 # Ignore the config folder and all its contents
 config/
+assets/qrcodes/*.png
